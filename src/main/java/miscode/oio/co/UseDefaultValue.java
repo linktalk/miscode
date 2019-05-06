@@ -17,7 +17,7 @@ import org.openjdk.jmh.runner.options.OptionsBuilder;
  *       vs
  *       boolean v;    // use default value: false
  *
- * A same of the Benchmark results (JDK 12):
+ * A sample of the Benchmark results (JDK 12):
  * Benchmark                 Mode   Cnt           Score           Error  Units
  * withDefaultValue          thrpt   25  3713078690.377 ±  23089789.596  ops/s
  * noDefaultValue            thrpt   25  3701103280.943 ±  71561673.246  ops/s
