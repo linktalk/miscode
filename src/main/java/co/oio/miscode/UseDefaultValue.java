@@ -1,4 +1,4 @@
-package miscode.oio.co;
+package co.oio.miscode;
 
 import org.openjdk.jmh.annotations.Benchmark;
 import org.openjdk.jmh.annotations.Threads;
